@@ -36,9 +36,8 @@ NovaSheet is a functional spreadsheet parser and evaluator that supports:
 
 ---
 
-## 🔗 Live Demo
-
-[https://devrobertcodes.github.io/NovaSheet/]
+**Check it out here:**  
+👉 [NovaSheet Live](https://devrobertcodes.github.io/NovaSheet/) 👈
 
 ---
 
